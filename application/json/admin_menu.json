@@ -1,0 +1,85 @@
+[
+	{
+		"name":"Dashboard",
+		"icon":"fa-tachometer",
+		"link":"dashboard",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Setup",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[
+			{
+				"name":"Customer Registration",
+				"icon":"fa-tachometer",
+				"link":"customer",
+				"active":"YES",		
+				"child":[]
+			},
+			{
+				"name":"Emploayee Registration",
+				"icon":"fa-tachometer",
+				"link":"employee/registration",
+				"active":"YES",		
+				"child":[]
+			},
+			{
+				"name":"Policy Setting",
+				"icon":"fa-tachometer",
+				"link":"policy",
+				"active":"YES",		
+				"child":[]
+			}
+
+		]
+	},	
+	{
+		"name":"Leave Record",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Attendance",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Report",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[				
+				{
+					"name":"Cutomer Details",
+					"icon":"fa-tachometer",
+					"link":"customer/lists",
+					"active":"YES",		
+					"child":[]
+				},	
+				{
+					"name":"Emploayee Details",
+					"icon":"fa-tachometer",
+					"link":"employee/details",
+					"active":"YES",		
+					"child":[]
+				},	
+				{
+					"name":"Cutomer Emploayee Details",
+					"icon":"fa-tachometer",
+					"link":"employee/customers",
+					"active":"YES",		
+					"child":[]
+				}
+
+		]
+	}
+
+
+]

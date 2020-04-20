@@ -1,0 +1,78 @@
+[
+	{
+		"name":"Dashboard",
+		"icon":"fa-tachometer",
+		"link":"dashboard",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Setup",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[			
+			{
+				"name":"Emploayee Registration",
+				"icon":"fa-tachometer",
+				"link":"employee/registration",
+				"active":"YES",		
+				"child":[]
+			},
+			{
+				"name":"Holiday Setting",
+				"icon":"fa-tachometer",
+				"link":"holiday",
+				"active":"YES",		
+				"child":[]
+			},
+			{
+				"name":"Policy Setting",
+				"icon":"fa-tachometer",
+				"link":"policy",
+				"active":"YES",		
+				"child":[]
+			},
+			{
+				"name":"Create Superwiser/Manager",
+				"icon":"fa-tachometer",
+				"link":"manager",
+				"active":"YES",		
+				"child":[]
+			}
+
+		]
+	},		
+	{
+		"name":"Leave Approval",
+		"icon":"fa-tachometer",
+		"link":"leave/details",
+		"active":"YES",		
+		"child":[]
+	},
+	{
+		"name":"Leave Record",
+		"icon":"fa-tachometer",
+		"link":"leave/records",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Report",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[	
+				{
+					"name":"Emploayee Details",
+					"icon":"fa-tachometer",
+					"link":"employee/details",
+					"active":"YES",		
+					"child":[]
+				}
+
+		]
+	}
+
+
+]

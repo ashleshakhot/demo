@@ -1,0 +1,52 @@
+[
+	{
+		"name":"Dashboard",
+		"icon":"fa-tachometer",
+		"link":"dashboard",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Leave Request",
+		"icon":"fa-tachometer",
+		"link":"leave",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"OT ",
+		"icon":"fa-tachometer",
+		"link":"ot",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Reimbursement ",
+		"icon":"fa-tachometer",
+		"link":"reimbursement/request",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Leave Encashment ",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Advance Salary ",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Comp Off Request",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	}
+
+]

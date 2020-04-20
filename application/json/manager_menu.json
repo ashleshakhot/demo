@@ -1,0 +1,91 @@
+[
+	{
+		"name":"Dashboard",
+		"icon":"fa-tachometer",
+		"link":"dashboard",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Leave Approval",
+		"icon":"fa-tachometer",
+		"link":"leave/details",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"OT Approval",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Incentive",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Reimbursement Approval",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Extra Days Approval",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Leave Encashment Approval",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Advance Pay Approval",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Compensetive Off Approval",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Acco/Transport",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Attendance of Employee",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	},	
+	{
+		"name":"Attendance Report",
+		"icon":"fa-tachometer",
+		"link":"#",
+		"active":"YES",		
+		"child":[]
+	}
+
+
+
+
+
+]	
